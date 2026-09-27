@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dettato</string>
+    <string name="acc_desc">Mostra un tasto microfono quando la tastiera è aperta. Registra finché non lo ritocchi, trascrive e ripulisce il testo con l\'intelligenza artificiale e lo incolla nel campo in cui stai scrivendo.</string>
+</resources>
